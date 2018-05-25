@@ -51,13 +51,22 @@ If anyone engages in unacceptable behavior, the conference organizers may take
 any action they deem appropriate including expulsion from the conference
 without warning or refund.
 
-## 6. What to do if you witness or are subject to unacceptable behavior
+## 6. Reporting Incidents
 
 If you are subject to unacceptable behavior, notice that someone else is being
-subject to unacceptable behavior, or have any other concerns, please notify
-[mailto:soc@perlconference.us](soc@perlconference.us) as soon as possible.
+subject to unacceptable behavior, or have any other concerns, please notify a
+member of the SoC Event Committee as soon as possible. If you do not know who
+these members are, ask any event organizer or volunteer for help. You may also
+email [mailto:soc@perlconference.us](soc@perlconference.us) to report an
+incident if you prefer.
 
-## 7. License and attribution
+## 7. Handling Incidents
+
+If you are a member of an SoC Event Committee, an event organizer, or a
+volunteer, please see our [documentation on handling
+incidents](handling-incidents.md).
+
+## 8. License and attribution
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA
 3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
