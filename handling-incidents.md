@@ -43,12 +43,12 @@ Please send all reports by email to
 ## Presentations
 
 Presentations or similar events should not be stopped for one-time gaffes or
-minor problems, although a member of the event organizer or volunteers should
-speak to the presenter afterward. However, organizers and volunteers should
-take immediate action to politely and calmly stop any presentation or event
-that repeatedly or seriously violates the anti-harassment policy. For example,
-simply say "I’m sorry, this presentation cannot be continued at the present
-time" and provide no further explanation.
+minor problems, although an event organizer or a volunteer should speak to the
+presenter afterward. However, organizers and volunteers should take immediate
+action to politely and calmly stop any presentation or event that repeatedly
+or seriously violates the anti-harassment policy. For example, simply say "I’m
+sorry, this presentation cannot be continued at the present time" and provide
+no further explanation.
 
 ## Taking reports
 
