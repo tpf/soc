@@ -7,7 +7,7 @@ complaints from attendees.
 ## SoC Event Committee
 
 All TPF events will have a per-event Standards of Conduct committee appointed
-to act as the final authority for all issues related to the standards of
+to act as the designated authority for all issues related to the standards of
 conduct for each event. The membership of this committee may vary from event
 to event.
 
@@ -73,6 +73,9 @@ pressure the reporter to take any action if they do not want to do it.
 * The circumstances surrounding the incident.
 * Your identity.
 * Other people involved in the incident.
+
+Please note that we typically will not take action based on a single anonymous
+complaint.
 
 ## Expulsion
 
