@@ -77,6 +77,14 @@ pressure the reporter to take any action if they do not want to do it.
 Please note that we typically will not take action based on a single anonymous
 complaint.
 
+### Contacting Security or Local Authorities
+
+If the person reporting the incident says that they were physically hurt or
+felt afraid for their safety, then the person taking the report should offer
+to help contact venue security and local authorities. If you are taking a
+report, you are encouraged to ask the reporter if they were hurt or felt
+afraid for their safety.
+
 ## Expulsion
 
 An event participant may be expelled by the decision of SoC Event Committee
@@ -89,12 +97,12 @@ guidelines for when a participant should be expelled:
 * A single serious offense, e.g., groping someone or a physical assault.
 * A single obviously intentional offense, e.g., taking up-skirt photos.
 
-Venue security and local authorities should be contacted when appropriate.
-
 ## Public statements
 
 As a general rule, event organizer and volunteers should not make any public
 statements about the behavior of individual people during or after the event.
+
+## Summary
 
 In general, consult with the SoC committee as well as other event organizers
 and volunteers when possible, but act when necessary.
