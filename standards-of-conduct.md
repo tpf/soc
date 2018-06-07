@@ -60,11 +60,15 @@ these members are, ask any event organizer or volunteer for help. You may also
 email [mailto:soc@perlconference.us](soc@perlconference.us) to report an
 incident if you prefer.
 
-## 7. Handling Incidents
+## 7. Standard of Conduct Committee
 
-If you are a member of an SoC Event Committee, an event organizer, or a
-volunteer, please see our [documentation on handling
-incidents](handling-incidents.md).
+Each event will establish a standards of conduct committee (SoC Committee) and
+a chairperson for that committee. The point of contact for this committee will
+be published on the event website. The SoC Committee will be responsible for
+receiving and handling all incident reports. The SoC Committee is authorized
+to establish any supplemental procedures necessary to fulfill their role,
+provided that any such procedures are subject to approval by The Perl
+Foundation.
 
 ## 8. License and attribution
 
