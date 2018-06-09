@@ -2,7 +2,8 @@
 
 This document is for event organizers and volunteers and provides guidelines
 on handling violations of the standards of conduct as well as incident
-complaints from attendees.
+complaints from attendees. The actual standards of conduct are described in a
+separate document provided to all attendees by the conference organizers.
 
 ## SoC Event Committee
 
