@@ -51,7 +51,7 @@ or seriously violates the anti-harassment policy. For example, simply say "I’m
 sorry, this presentation cannot be continued at the present time" and provide
 no further explanation.
 
-## Taking reports
+## Taking Reports
 
 Whenever possible, event organizers or volunteers should direct complaints to
 a member of the SoC Event Committee. However, that may not always be possible,
@@ -98,7 +98,10 @@ guidelines for when a participant should be expelled:
 * A single serious offense, e.g., groping someone or a physical assault.
 * A single obviously intentional offense, e.g., taking up-skirt photos.
 
-## Public statements
+Participants who are expelled because of a violation of the SoC are not
+entitled to a refund of any conference fees.
+
+## Public Statements
 
 As a general rule, event organizer and volunteers should not make any public
 statements about the behavior of individual people during or after the event.
