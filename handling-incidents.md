@@ -96,7 +96,7 @@ guidelines for when a participant should be expelled:
 * Continuing to harass after any “no” or “stop” instruction.
 * A pattern of harassing behavior with or without warnings.
 * A single serious offense, e.g., groping someone or a physical assault.
-* A single obviously intentional offense, e.g., taking up-skirt photos.
+* A single obviously intentional and extreme offense.
 
 Participants who are expelled because of a violation of the SoC are not
 entitled to a refund of any conference fees.
