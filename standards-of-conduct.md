@@ -57,7 +57,7 @@ If you are subject to unacceptable behavior, notice that someone else is being
 subject to unacceptable behavior, or have any other concerns, please notify a
 member of the SoC Event Committee as soon as possible. If you do not know who
 these members are, ask any event organizer or volunteer for help. You may also
-email [mailto:soc@perlconference.us](soc@perlconference.us) to report an
+email [soc@perlconference.us](mailto:soc@perlconference.us) to report an
 incident if you prefer.
 
 ## 7. Standard of Conduct Committee
@@ -75,4 +75,4 @@ Foundation.
 [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA
 3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
 
-Contact us at [mailto:soc@perlconference.us](soc@perlconference.us).
+Contact us at [soc@perlconference.us](mailto:soc@perlconference.us).
