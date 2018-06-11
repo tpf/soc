@@ -39,7 +39,7 @@ practical. The report should include:
 * Other people involved in the incident.
 
 Please send all reports by email to
-[mailto:soc@perlconference.us](soc@perlconference.us).
+[soc@perlconference.us](mailto:soc@perlconference.us).
 
 ## Presentations
 
@@ -113,4 +113,4 @@ and volunteers when possible, but act when necessary.
 
 ## Contact Info
 
-Email: [mailto:soc@perlconference.us](soc@perlconference.us)
+Email: [soc@perlconference.us](mailto:soc@perlconference.us)
