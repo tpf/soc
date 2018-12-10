@@ -70,6 +70,12 @@ to establish any supplemental procedures necessary to fulfill their role,
 provided that any such procedures are subject to approval by The Perl
 Foundation.
 
+If a member of this committee has a conflict of interest in handling a report
+they are required to recuse themselves from the handling of that report. This
+conflict of interest occurs when they are directly involved in an incident or
+when they have a relationship with anyone involved in an incident, such as a
+romantic, business, or family relationship.
+
 ## 8. License and attribution
 
 [Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA
