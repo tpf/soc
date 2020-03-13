@@ -5,7 +5,7 @@
 The Perl Foundation believes our community should be truly open for
 everyone. As such, we are committed to providing a friendly, safe and
 welcoming environment for all, regardless of gender, gender identity, sexual
-orientation, disability, ethnicity, religion, or country of origin
+orientation, disability, ethnicity, religion, or country of origin.
 
 This code of conduct outlines our expectations for participant behavior. We
 invite all sponsors, volunteers, speakers, attendees, vendors, and other
@@ -76,3 +76,5 @@ Foundation.
 3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
 
 Contact us at [soc@perlconference.us](mailto:soc@perlconference.us).
+
+If you are a conference organizer or event volunteer please see [our document on how to handle incident reports](handling-incidents.md).
