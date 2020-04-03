@@ -9,56 +9,50 @@ orientation, disability, ethnicity, religion, or country of origin.
 
 This code of conduct outlines our expectations for participant behavior. We
 invite all sponsors, volunteers, speakers, attendees, vendors, and other
-participants to help us realize a safe and positive conference experience for
-everyone.
+participants to help us realize a safe and positive experience for everyone.
 
 ## 2. Scope
 
 We expect all event participants (sponsors, volunteers, speakers, attendees,
-vendors, and other guests) to abide by this code of conduct at all conference
-venues and conference-related social events.
+vendors, and other guests) to abide by this code of conduct in all interactions
+between participants during the event.
 
 ## 3. Expected Behavior
 
 * Be considerate, respectful, and collaborative.
 * Refrain from demeaning, discriminatory or harassing behavior and speech.
 * Be mindful of your surroundings and of your fellow participants.
-* Alert conference organizers if you notice a dangerous situation or someone
-  in distress.
+* If you see something that causes you concern, alert the SOC committee.
 
 ## 4. Unacceptable Behavior
 
-Unacceptable behaviors include: intimidating, harassing, abusive,
-discriminatory, derogatory or demeaning conduct by any attendees. The Perl
-Conference venues may be shared with members of the public; please be
-respectful to all patrons of these locations.
-
-Harassment includes: offensive verbal comments related to gender, gender
-identity, sexual orientation, race, religion, disability; inappropriate use of
-nudity and/or sexual images (including presentation slides); deliberate
-intimidation, stalking or following; harassing photography or recording;
-sustained disruption of talks or other events; inappropriate physical contact,
-and unwelcome sexual attention.
+Possible unacceptable behaviors include:
+* Intimidating, harassing, abusive, discriminatory, derogatory or demeaning conduct
+* Offensive verbal comments related to gender
+* Gender identity, sexual orientation, race, religion, disability
+* Inappropriate use of nudity and/or sexual images (including presentation slides)
+* Deliberate intimidation, stalking or following
+* Harassing photography or recording
+* Sustained disruption of talks or other events
+* Inappropriate and/or unwelcome physical contact and/or sexual attention.
 
 ## 5. Consequences of Unacceptable Behavior
 
-Unacceptable behavior by other attendees, organizers, venue staff, sponsors,
-or other patrons of The Perl Conference venues will not be tolerated.
+Unacceptable behavior by attendees, organizers, venue staff, sponsors, or patrons
+of TPF venues will not be tolerated.
 
 Anyone asked to stop unacceptable behavior is expected to comply immediately.
 
-If anyone engages in unacceptable behavior, the conference organizers may take
-any action they deem appropriate including expulsion from the conference
-without warning or refund.
+If anyone engages in unacceptable behavior, the SOC committee may take
+any action they deem appropriate including expulsion without warning or compensation.
 
 ## 6. Reporting Incidents
 
 If you are subject to unacceptable behavior, notice that someone else is being
 subject to unacceptable behavior, or have any other concerns, please notify a
-member of the SoC Event Committee as soon as possible. If you do not know who
-these members are, ask any event organizer or volunteer for help. You may also
-email [soc@perlconference.us](mailto:soc@perlconference.us) to report an
-incident if you prefer.
+[member of the SOC Committee](SOC-committee-members.md) as soon as possible.
+You may also email [cat@perlfoundation.org](mailto:cat@perlfoundation.org)
+or [use the following web form](...) to report an incident if you prefer.
 
 ## 7. Standard of Conduct Committee
 
@@ -76,11 +70,12 @@ conflict of interest occurs when they are directly involved in an incident or
 when they have a relationship with anyone involved in an incident, such as a
 romantic, business, or family relationship.
 
-## 8. License and attribution
+## 8. Handling incidents
 
-[Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA
-3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
+Handling incidents is [documented here.](handling-incidents.md)
 
-Contact us at [soc@perlconference.us](mailto:soc@perlconference.us).
+## 9. License and attribution
 
-If you are a conference organizer or event volunteer please see [our document on how to handle incident reports](handling-incidents.md).
+[Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
+
+Contact us at [cat@perlfoundation.org](mailto:cat@perlfoundation.org).
