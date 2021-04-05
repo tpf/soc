@@ -2,19 +2,18 @@
 
 ## 1. Purpose
 
-The Perl Foundation believes our community should be truly open for
-everyone. As such, we are committed to providing a friendly, safe and
-welcoming environment for all, regardless of gender, gender identity, sexual
-orientation, disability, ethnicity, religion, or country of origin.
-
+The Perl Foundation believes our community should be truly open for everyone.
+As such, we are committed to providing a friendly, safe and welcoming
+environment for all, regardless of gender, gender identity and expression,
+sexual orientation, disability, ethnicity, religion, or country of origin.
 This code of conduct outlines our expectations for participant behavior. We
-invite all sponsors, volunteers, speakers, attendees, vendors, and other
+invite all speakers, attendees, sponsors, volunteers, vendors, and other
 participants to help us realize a safe and positive conference experience for
 everyone.
 
 ## 2. Scope
 
-We expect all event participants (sponsors, volunteers, speakers, attendees,
+We expect all event participants (speakers, attendees, sponsors, volunteers,
 vendors, and other guests) to abide by this code of conduct at all conference
 venues and conference-related social events.
 
@@ -28,17 +27,25 @@ venues and conference-related social events.
 
 ## 4. Unacceptable Behavior
 
-Unacceptable behaviors include: intimidating, harassing, abusive,
-discriminatory, derogatory or demeaning conduct by any attendees. The Perl
-Conference venues may be shared with members of the public; please be
-respectful to all patrons of these locations.
+Unacceptable behaviors include:
+* Intimidating, harassing, abusive, discriminatory, derogatory, or demeaning
+  conduct by any attendees.
+* Threats of violence.
+* Incitement of violence towards any individual, including encouraging a person
+  to commit suicide or to engage in self-harm.
+* Sustained disruption of talks or other events.
 
-Harassment includes: offensive verbal comments related to gender, gender
-identity, sexual orientation, race, religion, disability; inappropriate use of
-nudity and/or sexual images (including presentation slides); deliberate
-intimidation, stalking or following; harassing photography or recording;
-sustained disruption of talks or other events; inappropriate physical contact,
-and unwelcome sexual attention.
+Harassment includes:
+* Offensive comments related to gender, gender identity and expression, sexual
+  orientation, race, religion, or disability (including presentation slides).
+* Inappropriate use of nudity and/or sexual images (including presentation slides).
+* Deliberate intimidation, stalking or following; harassing photography or recording.
+* Deliberate misgendering or use of ‘dead’ or rejected names.
+* Inappropriate physical contact.
+* Unwelcome sexual attention.
+
+The Perl Conference venues may be shared with members of the public; please
+be respectful to all patrons of these locations.
 
 ## 5. Consequences of Unacceptable Behavior
 
@@ -55,32 +62,27 @@ without warning or refund.
 
 If you are subject to unacceptable behavior, notice that someone else is being
 subject to unacceptable behavior, or have any other concerns, please notify a
-member of the SoC Event Committee as soon as possible. If you do not know who
-these members are, ask any event organizer or volunteer for help. You may also
-email [soc@perlconference.us](mailto:soc@perlconference.us) to report an
-incident if you prefer.
+member of the Community Affairs Team or event staff as soon as possible. If
+you do not know who these members are, ask any event organizer or volunteer 
+for help. You may also email [cat@perlfoundation.org](mailto:cat@perlfoundation.org)
+to report an incident if you prefer.
 
-## 7. Standard of Conduct Committee
+If a member of the Community Affairs Team has a conflict of interest in
+handling a report they are required to recuse themselves from the handling
+of that report. This conflict of interest occurs when they are directly
+involved in an incident or when they have a relationship with anyone involved
+in an incident, such as a close friendship, romantic, business, or family
+relationship.
 
-Each event will establish a standards of conduct committee (SoC Committee) and
-a chairperson for that committee. The point of contact for this committee will
-be published on the event website. The SoC Committee will be responsible for
-receiving and handling all incident reports. The SoC Committee is authorized
-to establish any supplemental procedures necessary to fulfill their role,
-provided that any such procedures are subject to approval by The Perl
-Foundation.
+## 7. Community Affairs Team
 
-If a member of this committee has a conflict of interest in handling a report
-they are required to recuse themselves from the handling of that report. This
-conflict of interest occurs when they are directly involved in an incident or
-when they have a relationship with anyone involved in an incident, such as a
-romantic, business, or family relationship.
+The Community Affairs Team is a group of volunteers who handle Standards of
+Conduct issue reports, both during conferences and in other TPF spaces
+year-round.
 
 ## 8. License and attribution
 
-[Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA
-3.0)](http://creativecommons.org/licenses/by-sa/3.0/)
-
-Contact us at [soc@perlconference.us](mailto:soc@perlconference.us).
+Creative Commons Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0)
+Contact us at [cat@perlfoundation.org](mailto:cat@perlfoundation.org).
 
 If you are a conference organizer or event volunteer please see [our document on how to handle incident reports](handling-incidents.md).
