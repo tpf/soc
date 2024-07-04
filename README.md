@@ -5,4 +5,4 @@ version of the Standards of Conduct and related documents.
 
 You can read the documents here:
 
-* [Standards of Conduct](Standards of Conduct.md)
+* [Standards of Conduct](Standards_of_Conduct.md)
