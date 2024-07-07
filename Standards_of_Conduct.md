@@ -78,7 +78,7 @@ Abuse, taken generally, is the improper usage or treatment of a person or thing.
 
 ### Bullying
 
-Bullying is the use of force, coercion, hurtful teasing or threat, to abuse, aggressively dominate or intimidate. It is characterized by its repetitive nature, an imbalance of power, and its hostile intent. When done by more than one person in concert, it is called *mobbing*. It may include many different actions, done either verbally or via email or other electronic communications, including but not limited to:
+Bullying is the use of force, coercion, hurtful teasing or threat, to abuse, aggressively dominate or intimidate. It is characterized by its repetitive nature, an imbalance of power, and its hostile intent. When done by more than one person in the workplace, it is called *mobbing*. It may include many different actions, done either verbally or via email or other electronic communications, including but not limited to:
 
 * Derogatory name-calling and nicknaming
 * Spreading rumors or lying about someone
